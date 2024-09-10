@@ -3,7 +3,7 @@
 - 👀 **I’m interested in:** Full-Stack Development, building impactful web applications, and solving complex problems through code.
 - 🌱 **I’m currently learning:** Advanced JavaScript, WebSockets for real-time applications, and exploring AI integration in web apps.
 - 💞️ **I’m looking to collaborate on:** Innovative web applications, SaaS products, and open-source projects related to full-stack development.
-- 📫 **How to reach me:** Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/ankit-pandey-001) or drop me an email at ankitpandey001@example.com.
+- 📫 **How to reach me:** Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/pandeyankit001/) or drop me an email at ankitpandey001@example.com.
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I'm always seeking new challenges, whether it's building apps or exploring the latest trends in tech.
 
