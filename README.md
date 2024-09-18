@@ -7,6 +7,7 @@
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I'm always seeking new challenges, whether it's building apps or exploring the latest trends in tech.
 
+
 ---
 
 ### 🖥️ **About Me:**
