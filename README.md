@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ankitpandey62042@gmail.com**
 
-- 📄 Know about my experiences [https://my-port-folio-mu-fawn.vercel.app/](https://my-port-folio-mu-fawn.vercel.app/)
+- 📄 Know about my experiences [(https://my-port-folio-mu-fawn.vercel.app/)](https://66f30d5ea70a271f22098968--polite-twilight-0e17af.netlify.app/)
 
 - ⚡ Fun fact **I once built a real-time chat app using Socket.IO in a single weekend!**
 
