@@ -1,4 +1,4 @@
-<div align="center"; style="margin-bottom: 60px;">
+<div align="center" style="margin-bottom: 60px;">
   <img style="max-width:60%;height:auto;" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </div>
 
@@ -46,7 +46,9 @@ I'm **Ankit Kumar Pandey**, a passionate software engineer skilled in full stack
 <p align="left">
   <a href="https://linkedin.com/in/pandeyankit001" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/AnkitPandey001" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/PandeyAnkit001/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
+
 
 ---
 
@@ -76,4 +78,5 @@ I'm **Ankit Kumar Pandey**, a passionate software engineer skilled in full stack
    <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
    </a>
+   <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
