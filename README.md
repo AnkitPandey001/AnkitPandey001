@@ -52,13 +52,6 @@ I'm **Ankit Kumar Pandey**, a passionate software engineer skilled in full stack
 
 ---
 
-### 🏆 Achievements
-- **Developed a Plant Care App** showcased at *Chitkara University's annual project expo*.
-- **1st Runner Up** in *Flipkart Grid 5.0*, for Diabetic Retinopathy Detection with Quantum Computing and Deep Learning.
-- **Top 10% Worldwide** in *Leetcode Weekly Contests*.
-
----
-
 ### 🐱 My GitHub Stats
 <div align="center">
   <img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" />
