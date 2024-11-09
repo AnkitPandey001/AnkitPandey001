@@ -71,5 +71,5 @@ I'm **Ankit Kumar Pandey**, a passionate software engineer skilled in full stack
    <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
    </a>
-   <h3>Show some ❤️ by starring some of the repositories!</h3>
+  
 </div>
