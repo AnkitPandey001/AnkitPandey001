@@ -23,11 +23,11 @@ I'm **Ankit Kumar Pandey**, a passionate software engineer skilled in full stack
 - **GitHub Profile Explorer**: A React-based application fetching and displaying GitHub user profiles and repositories.
 
 ### 🛠 Technical Skills
-- **Front-End**: HTML, CSS, JavaScript, React, Tailwind CSS
+- **Front-End**: HTML, CSS, JavaScript, React, Tailwind CSS,Typescript
 - **Back-End**: Node.js, Express.js, API development
 - **Database**: MongoDB
-- **Real-time Communication**: Socket.IO
-- **Development Tools**: VS Code, Git/GitHub
+- **Real-time Communication**: Socket.IO,WebRTC
+- **Development Tools**: VS Code, Git/GitHub , Postman
 
 ---
 
