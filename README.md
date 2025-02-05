@@ -2,6 +2,8 @@
   <img style="max-width:60%;height:auto;" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </div>
 
+<h1>Ankit Kumar Pandey</h1>
+
 ---
 
 ### 👋 About Me
