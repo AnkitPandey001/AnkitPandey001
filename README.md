@@ -41,7 +41,7 @@ I'm **Ankit Kumar Pandey**, a passionate software engineer skilled in full stack
 <p align="left">
   <a href="https://linkedin.com/in/pandeyankit001" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/AnkitPandey001" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/u/PandeyAnkit001/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/user/pandey_ankit001/?ref=header_profile" target="_blank"><img src="https://imgs.search.brave.com/mSdQe9nCIYsnF7gYrpr6yxHfIxEJnsBVSLft0_2Y7ig/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS9l/MjRlMjZmNGMwOWEz/NzkzOThlNWIxNDQy/Y2M2YTE4MjRhYzY4/MmRjYzYxMzAwNWYz/NmNlYzkxYTljODVh/OTE2LzY4NzQ3NDcw/NzMzYTJmMmY3Nzc3/NzcyZTY3NjU2NTZi/NzM2NjZmNzI2NzY1/NjU2YjczMmU2Zjcy/NjcyZjc3NzAyZDYz/NmY2ZTc0NjU2ZTc0/MmY3NTcwNmM2ZjYx/NjQ3MzJmNjc2NjY3/NWYzMjMwMzA1ODMy/MzAzMDJlNzA2ZTY3" alt="LeetCode" /></a>
 </p>
 
 
