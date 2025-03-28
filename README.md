@@ -7,16 +7,16 @@
 ---
 
 ### 👋 About Me
-I'm **Ankit Kumar Pandey**, a passionate software engineer skilled in full stack development. I have experience building diverse applications, from plant care apps to real-time chat applications. I love solving problems and continually learning new technologies in the tech field.
+I'm **Ankit Kumar Pandey**, a passionate software engineer skilled in full stack development. I have experience building diverse applications, from plant care apps to Blogs app applications. I love solving problems and continually learning new technologies in the tech field.
 
 ---
 
 ### 🌟 Projects & Skills
 
 - **Plant Care App**: A React, Express, and MongoDB app providing care tips for plants, with a community page for plant enthusiasts.
-- **Real-time Chat App**: A one-to-one messaging app using React, Express, Socket.IO, and MongoDB, enabling secure and dynamic chats.
+- **Blogs App**: A full-stack blogging platform where users can create, edit, and delete posts. Features user authentication, profile customization, and a community feed with likes and comments.
 - **GitHub Profile Explorer**: A React-based application fetching and displaying GitHub user profiles and repositories.
-
+- **Online Compiler**:A React-based code editor using the Piston API and Monaco Editor, supporting multiple programming languages such as C, C++, and Java.
 ### 🛠 Technical Skills
 - **Front-End**: HTML, CSS, JavaScript, React, Tailwind CSS,Typescript
 - **Back-End**: Node.js, Express.js, API development
