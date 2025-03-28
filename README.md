@@ -29,7 +29,7 @@ I'm **Ankit Kumar Pandey**, a passionate software engineer skilled in full stack
 ### 🎓 Education
 - **Bachelor of Engineering in Computer Science**  
   *Chitkara University*  
-  CGPA: 8.55/10
+  CGPA: 8.48/10
 
 ### 💼 Certifications
 - **JavaScript Essentials** - *Cisco*  
@@ -41,30 +41,6 @@ I'm **Ankit Kumar Pandey**, a passionate software engineer skilled in full stack
 <p align="left">
   <a href="https://linkedin.com/in/pandeyankit001" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/AnkitPandey001" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.geeksforgeeks.org/user/pandey_ankit001/?ref=header_profile" target="_blank"><img src="https://imgs.search.brave.com/mSdQe9nCIYsnF7gYrpr6yxHfIxEJnsBVSLft0_2Y7ig/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS9l/MjRlMjZmNGMwOWEz/NzkzOThlNWIxNDQy/Y2M2YTE4MjRhYzY4/MmRjYzYxMzAwNWYz/NmNlYzkxYTljODVh/OTE2LzY4NzQ3NDcw/NzMzYTJmMmY3Nzc3/NzcyZTY3NjU2NTZi/NzM2NjZmNzI2NzY1/NjU2YjczMmU2Zjcy/NjcyZjc3NzAyZDYz/NmY2ZTc0NjU2ZTc0/MmY3NTcwNmM2ZjYx/NjQ3MzJmNjc2NjY3/NWYzMjMwMzA1ODMy/MzAzMDJlNzA2ZTY3" alt="LeetCode" /></a>
+
 </p>
-
-
----
-
-### 🐱 My GitHub Stats
-<div align="center">
-  <img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" />
-  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.7%20million%20lines%20of%20code-blue" alt="Lines of Code" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AnkitPandey001&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitPandey001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkitPandey001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-</div>
-
----
-
-<div align="center">
-   <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
-   </a>
-  
 </div>
